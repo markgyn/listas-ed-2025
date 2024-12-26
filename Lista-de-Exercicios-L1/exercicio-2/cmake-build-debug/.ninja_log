@@ -1,0 +1,7 @@
+# ninja log v6
+2	462	7509130779349501	CMakeFiles/exercicio_2.dir/main.c.obj	4cfbfbc619b0d8ea
+45	475	7509130779778362	CMakeFiles/exercicio_2.dir/realtype.c.obj	f12e9e59e6f48b19
+475	662	7509130784076856	exercicio_2.exe	d85b8f6a2d329e13
+14	483	7509132056254151	CMakeFiles/exercicio_2.dir/main.c.obj	4cfbfbc619b0d8ea
+56	492	7509132056682793	CMakeFiles/exercicio_2.dir/realtype.c.obj	f12e9e59e6f48b19
+492	682	7509132061041121	exercicio_2.exe	d85b8f6a2d329e13

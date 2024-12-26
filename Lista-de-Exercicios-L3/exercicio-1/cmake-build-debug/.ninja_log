@@ -1,0 +1,15 @@
+# ninja log v6
+2	467	7543717888021353	CMakeFiles/exercicio_1.dir/main.c.obj	4c660b57eb21ab40
+44	515	7543717888440234	CMakeFiles/exercicio_1.dir/pilha_tad.c.obj	f8e7052d3f70058e
+515	745	7543717893147646	exercicio_1.exe	48b88b5566b8b021
+17	526	7543719187260776	CMakeFiles/exercicio_1.dir/main.c.obj	4c660b57eb21ab40
+60	536	7543719187679658	CMakeFiles/exercicio_1.dir/pilha_tad.c.obj	f8e7052d3f70058e
+536	720	7543719192446901	exercicio_1.exe	48b88b5566b8b021
+19	562	7543722571815897	CMakeFiles/exercicio_1.dir/main.c.obj	4c660b57eb21ab40
+61	572	7543722572234776	CMakeFiles/exercicio_1.dir/pilha_tad.c.obj	f8e7052d3f70058e
+573	766	7543722577351097	exercicio_1.exe	48b88b5566b8b021
+17	494	7543722841442280	CMakeFiles/exercicio_1.dir/main.c.obj	4c660b57eb21ab40
+494	683	7543722846219496	exercicio_1.exe	48b88b5566b8b021
+18	504	7543724415503394	CMakeFiles/exercicio_1.dir/main.c.obj	4c660b57eb21ab40
+71	517	7543724416031967	CMakeFiles/exercicio_1.dir/pilha_tad.c.obj	f8e7052d3f70058e
+517	749	7543724420500025	exercicio_1.exe	48b88b5566b8b021

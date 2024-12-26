@@ -1,0 +1,7 @@
+# ninja log v6
+2	471	7509123849298791	CMakeFiles/exercicio_1.dir/main.c.obj	52a51376bf645390
+44	479	7509123849717947	CMakeFiles/exercicio_1.dir/complexo.c.obj	666ce6a95886735d
+479	695	7509123854066027	exercicio_1.exe	aecb1227e128cecd
+16	501	7509125265981621	CMakeFiles/exercicio_1.dir/main.c.obj	52a51376bf645390
+62	509	7509125266450377	CMakeFiles/exercicio_1.dir/complexo.c.obj	666ce6a95886735d
+509	700	7509125270918423	exercicio_1.exe	aecb1227e128cecd
